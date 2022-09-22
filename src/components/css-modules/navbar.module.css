@@ -52,5 +52,17 @@
     transform: scale(1.15);
 }
 
+@media only screen and (max-width: 1050px) {
+    .container {
+        padding: 20px 4rem;
+    }
+    .nav_item {
+        text-decoration: none;
+        color: white;
+        margin: 0rem 1.5rem;
+    }
+}
+
+
 
 
